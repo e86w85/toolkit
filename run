@@ -77,7 +77,8 @@ echo -e $yellow" [20] JadwalShalat"
 echo -e $yellow" [21] Open Source Information Facebook(OSIF)"
 echo -e $yellow" [22] Multi Bruteforce Facebook"
 echo -e $yellow" [23] TheFatRAT"
-echo -e $yellow" [23] Wi-fi-analyzer/fluxion"
+echo -e $yellow" [24] Wi-fi-analyzer/fluxion"
+echo -e $yellow" [25] Apple Email Valid
 echo -e $white" (00) Exit "
 echo -e $white""
 read -p "[A-Attacker@Tools]> " act;
@@ -396,6 +397,18 @@ clear
 echo -e $red" Fluxion "
 sleep 1
 git clone git clone https://github.com/wi-fi-analyzer/fluxion
+cd ~/
+echo -e $red" Succes! "
+fi
+
+if [ $act = 25 ] || [ $act = 25 ]
+then
+clear
+echo -e $red" Apple Email Valid "
+sleep 1
+https://github.com/a-attacker/valid
+apt-get install php
+pkg install php
 cd ~/
 echo -e $red" Succes! "
 fi
