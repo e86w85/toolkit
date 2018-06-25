@@ -397,7 +397,7 @@ then
 clear
 echo -e $red" Fluxion "
 sleep 1
-git clone git clone https://github.com/wi-fi-analyzer/fluxion
+git clone https://github.com/wi-fi-analyzer/fluxion
 cd ~/
 echo -e $red" Succes! "
 fi
@@ -407,9 +407,7 @@ then
 clear
 echo -e $red" Apple Email Valid "
 sleep 1
-https://github.com/a-attacker/valid
-apt-get install php
-pkg install php
+git clone https://github.com/a-attacker/valid
 cd ~/
 echo -e $red" Succes! "
 fi
@@ -419,7 +417,7 @@ then
 clear
 echo -e $red" Wifite "
 sleep 1
-https://github.com/derv82/wifite
+git clone https://github.com/derv82/wifite
 cd ~/
 echo -e $red" Succes! "
 fi
