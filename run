@@ -78,7 +78,8 @@ echo -e $yellow" [21] Open Source Information Facebook(OSIF)"
 echo -e $yellow" [22] Multi Bruteforce Facebook"
 echo -e $yellow" [23] TheFatRAT"
 echo -e $yellow" [24] Wi-fi-analyzer/fluxion"
-echo -e $yellow" [25] Apple Email Valid
+echo -e $yellow" [25] Apple Email Valid"
+echo -e $yellow" [26] Wifite"
 echo -e $white" (00) Exit "
 echo -e $white""
 read -p "[A-Attacker@Tools]> " act;
@@ -409,6 +410,16 @@ sleep 1
 https://github.com/a-attacker/valid
 apt-get install php
 pkg install php
+cd ~/
+echo -e $red" Succes! "
+fi
+
+if [ $act = 25 ] || [ $act = 25 ]
+then
+clear
+echo -e $red" Wifite "
+sleep 1
+https://github.com/derv82/wifite
 cd ~/
 echo -e $red" Succes! "
 fi
