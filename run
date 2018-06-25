@@ -74,7 +74,10 @@ echo -e $yellow" [17] SQLMap "
 echo -e $yellow" [18] Dirbuster "
 echo -e $yellow" [19] Pybelt "
 echo -e $yellow" [20] JadwalShalat"
-echo -e $yellow" [21] Open Source Information Facebook(OSFI)"
+echo -e $yellow" [21] Open Source Information Facebook(OSIF)"
+echo -e $yellow" [22] Multi Bruteforce Facebook"
+echo -e $yellow" [23] TheFatRAT"
+echo -e $yellow" [23] Wi-fi-analyzer/fluxion"
 echo -e $white" (00) Exit "
 echo -e $white""
 read -p "[A-Attacker@Tools]> " act;
@@ -363,6 +366,36 @@ clear
 echo -e $red" Installing OSIF "
 sleep 1
 git clone https://github.com/CiKu370/OSIF
+cd ~/
+echo -e $red" Succes! "
+fi
+
+if [ $act = 22 ] || [ $act = 22 ]
+then
+clear
+echo -e $red" Multi Bruteforce Facebook "
+sleep 1
+git clone git clone https://github.com/pirmansx/mbf
+cd ~/
+echo -e $red" Succes! "
+fi
+
+if [ $act = 23 ] || [ $act = 23 ]
+then
+clear
+echo -e $red" TheFatRat "
+sleep 1
+git clone git clone hhttps://github.com/Screetsec/TheFatRa
+cd ~/
+echo -e $red" Succes! "
+fi
+
+if [ $act = 24 ] || [ $act = 24 ]
+then
+clear
+echo -e $red" Fluxion "
+sleep 1
+git clone git clone https://github.com/wi-fi-analyzer/fluxion
 cd ~/
 echo -e $red" Succes! "
 fi
