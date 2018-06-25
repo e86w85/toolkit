@@ -414,7 +414,7 @@ cd ~/
 echo -e $red" Succes! "
 fi
 
-if [ $act = 25 ] || [ $act = 25 ]
+if [ $act = 26 ] || [ $act = 26 ]
 then
 clear
 echo -e $red" Wifite "
