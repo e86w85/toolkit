@@ -82,6 +82,7 @@ echo -e $yellow" [25] Apple Email Valid"
 echo -e $yellow" [26] Wifite"
 echo -e $yellow" [27] 0day-Mikrotik (Bypass Mikrotik)"
 echo -e $yellow" [28] BOM SMS (Indonesian Provider)"
+echo -e $yellow" [29] GEMPA-TERKINI"
 echo -e $white" (00) Exit "
 echo -e $white""
 read -p "[A-Attacker@Tools]> " act;
@@ -440,6 +441,16 @@ clear
 echo -e $red" BOM SMS (Indonesian Provider} "
 sleep 1
 git clone https://github.com/zerosvn/bom-sms
+cd ~/
+echo -e $red" Succes! "
+fi
+
+if [ $act = 29 ] || [ $act = 29 ]
+then
+clear
+echo -e $red" GEMPA-TERKINI "
+sleep 1
+git clone https://github.com/suhada99/GempaTerikini
 cd ~/
 echo -e $red" Succes! "
 fi
