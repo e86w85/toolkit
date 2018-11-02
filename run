@@ -80,6 +80,8 @@ echo -e $yellow" [23] TheFatRAT"
 echo -e $yellow" [24] Wi-fi-analyzer/fluxion"
 echo -e $yellow" [25] Apple Email Valid"
 echo -e $yellow" [26] Wifite"
+echo -e $yellow" [27] 0day-Mikrotik (Bypass Mikrotik)"
+echo -e $yellow" [28] BOM SMS (Indonesian Provider)"
 echo -e $white" (00) Exit "
 echo -e $white""
 read -p "[A-Attacker@Tools]> " act;
@@ -415,9 +417,29 @@ fi
 if [ $act = 26 ] || [ $act = 26 ]
 then
 clear
-echo -e $red" Wifite "
+echo -e $red" 0day-Mikrotik (Bypass Mikrotik) "
 sleep 1
-git clone https://github.com/derv82/wifite
+git clone https://github.com/mrmtwoj/0day-mikrotik
+cd ~/
+echo -e $red" Succes! "
+fi
+
+if [ $act = 27 ] || [ $act = 27 ]
+then
+clear
+echo -e $red" 0day-Mikrotik (Bypass Mikrotik) "
+sleep 1
+git clone https://github.com/mrmtwoj/0day-mikrotik
+cd ~/
+echo -e $red" Succes! "
+fi
+
+if [ $act = 28 ] || [ $act = 28 ]
+then
+clear
+echo -e $red" BOM SMS (Indonesian Provider} "
+sleep 1
+git clone https://github.com/zerosvn/bom-sms
 cd ~/
 echo -e $red" Succes! "
 fi
