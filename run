@@ -1,8 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 # Auto Install Tools <3
-# Re-Code By Agil Saputra
-# gdragilsaputra@gmail.com
+# Re-Code By Zero Root
+# www.facebook.com/seijuro.agiru
 # 666
 
 # Bersihkan Layar
@@ -36,11 +36,11 @@ exit
 }
 
 # Isi oc :*
-echo -e $cyan"      _    ____ ___ _          _  _____ _____  _    ____ _  _______ ____  "
-echo -e $green"     / \  / ___|_ _| |        / \|_   _|_   _|/ \  / ___| |/ / ____|  _ \  "
-echo -e $red"    / _ \| |  _ | || |       / _ \ | |   | | / _ \| |   | ' /|  _| | |_) | "
-echo -e $white"   / ___ \ |_| || || |___   / ___ \| |   | |/ ___ \ |___| . \| |___|  _ <  "
-echo -e $cyan"  /_/   \_\____|___|_____| /_/   \_\_|   |_/_/   \_\____|_|\_\_____|_| \_\ "  
+echo -e $white"  ___________ ____   ___    ____   ___   ___ _____ "
+echo -e $cyan"   |__  / ____|  _ \ / _ \  |  _ \ / _ \ / _ \_   _| "
+echo -e $green"    / /|  _| | |_) | | | | | |_) | | | | | | || |    "
+echo -e $red"     / /_| |___|  _ <| |_| | |  _ <| |_| | |_| || |  "
+echo -e $cyan"   /____|_____|_| \_\\___/  |_| \_\\___/ \___/ |_|    "
 echo ""
 echo -e $white"         *************************************************"
 echo -e $white"         #                                               #"
