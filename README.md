@@ -1,9 +1,9 @@
-# A-Attacker
-Cara install nya: <br>
+#ZERO ROOT
+
+How to install it: 
 $ apt update && apt upgrade <br>
 $ apt install git <br>
 $ git clone https://github.com/a-attacker/toolkit <br>
-$ cd toolkit <br>
-$ chmod 777 run <br>
-<br>
-Untuk menjalankan nya ketik bash tools dan pilih tools yg mau kalian install.
+$ cd toolkit
+$ chmod 777 run
+To run it, type bash tools and select the tools you want to install.
