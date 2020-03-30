@@ -36,20 +36,20 @@ exit
 }
 
 # Isi oc :*
-echo -e $white"  ___________ ____   ___    ____   ___   ___ _____ "
-echo -e $cyan"   |__  / ____|  _ \ / _ \  |  _ \ / _ \ / _ \_   _| "
+echo -e $cyan"    __________ ____   ___    ____   ___   ___ _____  "
+echo -e $white"  |__  / ____|  _ \ / _ \  |  _ \ / _ \ / _ \_   _| "
 echo -e $green"    / /|  _| | |_) | | | | | |_) | | | | | | || |    "
 echo -e $red"     / /_| |___|  _ <| |_| | |  _ <| |_| | |_| || |  "
 echo -e $cyan"   /____|_____|_| \_\\___/  |_| \_\\___/ \___/ |_|    "
-echo ""
+
 echo -e $white"         *************************************************"
 echo -e $white"         #                                               #"
 echo -e $white"         # $cyan  Toolkit For$red Heker Gawl$white                      #"
-echo -e $white"         # $cyan  V3rluchie Tools Recoded by$red AgilAttacker$white     #"
-echo -e $white"         # $cyan  Follow Me On Instagram:$red @agilroot$white     #"
-echo -e $white"         # $cyan  My Facebook:$red https://fb.com/yaelahgil$white       #"
-echo -e $white"         # $cyan  Contact Me In:$red gdragilsaputra@gmail.com$white     #"
-echo -e $white"         # $cyan  Changelog: $red 25-06-2018   $white                   #"
+echo -e $white"         # $cyan  V3rluchie Tools Recoded by$red Zero Rootwhite     #"
+echo -e $white"         # $cyan  Follow Me On Instagram:$red @xxseijuroxx$white     #"
+echo -e $white"         # $cyan  My Facebook:$red https://fb.com/seijuro.agiruwhite       #"
+echo -e $white"         # $cyan  Contact Me In:$red agilroot@gmail.com$white     #"
+echo -e $white"         # $cyan  Changelog: $red 30-March-2020   $white                   #"
 echo -e $white"         # $cyan  Team: $red Indonesian Cyber Crew$white                #"
 echo -e $white"         #                                               #"
 echo -e $white"         *************************************************"
